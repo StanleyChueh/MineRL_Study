@@ -3,7 +3,7 @@ A GitHub repository documenting my MineRL learning journey and common issues rel
 
 THIS STUDY AIM TO LET MINECRAFT AGENT FIND A TREE AND CUT IT BY THEIR OWN.
 ## MineRL setup
-![Untitled ‑ Made with FlexClip (53)](https://github.com/user-attachments/assets/be6ec11f-29ab-4983-9f6f-7218df22c509)
+![Untitled ‑ Made with FlexClip (57)](https://github.com/user-attachments/assets/8677e18c-8402-453b-9325-6f39d6d39f73)
 
 One of the human-playing data for model inferencing(Cut tree task)
 
